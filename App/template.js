@@ -76,6 +76,7 @@ export default {
             .img{
                 padding-top:0em;
                 width:100%;
+                margin-right:0;
             }
             .title{
                 font-size:2.1rem;
